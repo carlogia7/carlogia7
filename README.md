@@ -5,7 +5,7 @@ Atualmente estou cursando Ciência da Computação no IMT (Instituto Mauá Tecno
 Apaixonado por tecnologia, sempre estudando novas e antigas tecnologias. Aqui ficarão alguns projetos pessoais/acadêmicos. 
 
 
-### 🧰 Tecnologias
+## 🧰 Tecnologias
 
 <img align="left" alt="HTML" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 
@@ -22,7 +22,8 @@ Apaixonado por tecnologia, sempre estudando novas e antigas tecnologias. Aqui fi
 <img align="left" alt="MongoDB" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
 
 <img align="left" alt="Figma" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-          
+   
+
 <br><br/>
 <br><br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlogia7&size_weight=0.4&count_weight=0.6&theme=dark&layout=compact)
