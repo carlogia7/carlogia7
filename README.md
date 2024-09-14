@@ -30,4 +30,4 @@ Apaixonado por tecnologia, sempre estudando novas e antigas tecnologias. Aqui fi
 
 <br><br/>
 <br><br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlogia7&size_weight=0.4&count_weight=0.6&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlogia7&size_weight=0.3&count_weight=0.7&theme=dark&layout=compact)
