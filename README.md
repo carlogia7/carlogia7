@@ -19,13 +19,9 @@ Apaixonado por tecnologia, sempre estudando novas e antigas tecnologias. Aqui fi
             
 <img align="left" alt="MongoDB" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"/>
 
-<img align="left" alt="Java" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-
 <img align="left" alt="MySQL" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
 <img align="left" alt="Figma" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-
-<img align="left" alt="Figma" height="30" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
    
 
 <br><br/>
